@@ -8,7 +8,7 @@
 # NEWS|YYYY-MM-DD|HEADLINE|SUMMARY|SOURCE LABEL|URL
 # OUTLOOK|SCENARIO|WHAT THE REPORTING SAYS|SOURCE LABEL|URL
 # HISTORY|LABEL|DETAIL|SOURCE LABEL|URL
-UPDATED|2026-11-26
+UPDATED|2026-11-27
 STATUS|No deal, and a lockout is widely expected on Dec. 1|The collective bargaining agreement expires at 11:59 p.m. ET on Dec. 1. The owners want a salary cap and floor. The players' union says it will never accept one. Talks continue, but the sides remain far apart.|MLB Trade Rumors|https://www.mlbtraderumors.com/2026-27-collective-bargaining
 DEADLINE|2026-11-17|Owners meetings (Nov. 17–19)|MLB's owners meet the week before the contract expires.|SB Nation (Southside Sox)|https://www.southsidesox.com/mlb-news/138015/your-comprehensive-guide-to-mlb-labor-negotiations
 DEADLINE|Late Nov.|MLBPA annual meeting in Arizona|Held less than two weeks after the owners meetings, just before the Dec. 1 expiration. Last-minute talks could coincide with it.|Front Office Sports|https://frontofficesports.com/article/mlb-labor-talks-why-both-sides-still-believe-a-deal-is-possible/
